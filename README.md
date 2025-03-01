@@ -2,7 +2,7 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a  responsive  website built with HTML, CSS, and JS, featuring smooth scrolling navigation,
+Hello! I'm Abdallah Maher, and this is a solution to the This project is a  responsive  website built with HTML, CSS, and JS, featuring smooth scrolling navigation,
 collapsible menus, and essential interactive elements. Includes basic animations and core functionality to showcase design and web development skills
 
 🚀 Features
