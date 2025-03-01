@@ -18,7 +18,7 @@ Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo (https://fancy-queijadas-6abfe7.netlify.app/)
+Live Demo (https://astonishing-travesseiro-87b660.netlify.app/)
 
 📬 Contact
 
