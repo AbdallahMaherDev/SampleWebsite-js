@@ -20,7 +20,7 @@ Open index.html in your browser to view the component.
 
 Live Demo (https://astonishing-travesseiro-87b660.netlify.app/)
 
-📬 Contact
+📬 Contact 
 
 If you have any feedback or suggestions, feel free to connect with me!
 
