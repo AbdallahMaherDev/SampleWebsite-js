@@ -5,7 +5,7 @@
 Hello! I'm Abdallah Maher, and this is a SampleWebsite With functionality. This project is a  responsive  website built with HTML, CSS, and JS, featuring smooth scrolling navigation,
 collapsible menus, and essential interactive elements. Includes basic animations and core functionality to showcase design and web development skills
 
-🚀 Features
+🚀 Features 
 
 Responsive and accessible design
 
